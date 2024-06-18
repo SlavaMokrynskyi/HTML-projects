@@ -1,0 +1,30 @@
+*{
+    margin-left: 10px;
+    margin-right: auto;
+    font-family: sans-serif;
+    vertical-align:middle;
+}
+li{
+    padding: 15px;
+    margin-right: 500px;
+
+}
+.done{
+    list-style-type: none;
+    background-color: lightgray ;
+}
+.NotDone_blue{
+    list-style-type: none;
+    background-color: rgb(123, 188, 228);
+}
+.NotDone_lightblue{
+    list-style-type: none;
+    background-color:rgb(135, 209, 255);
+}
+.red{
+    color: darkred;
+    font-size: x-large;
+}
+.line{
+    text-decoration: line-through;
+}
